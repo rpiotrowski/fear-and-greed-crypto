@@ -1,0 +1,1 @@
+Python wrapper for [Crypto Fear & Greed Index](https://alternative.me/crypto/fear-and-greed-index/).
